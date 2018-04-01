@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the Scrape Flipkart feature.
+ */
+
+include_once 'scrape_flipkart.features.inc';
